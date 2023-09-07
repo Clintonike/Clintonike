@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Clinton Ikechukwu
-- I’m interested in web development and technical writing.
+- I’m interested in web development using javascript and technical writing.
 - 🌱 I’m currently learning javascript.
 - I’m looking to collaborate on technical writing projects and open source web development.
 - 📫 you can reach me by email driplordy696@gmail.com
