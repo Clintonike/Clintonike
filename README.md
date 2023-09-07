@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Clintonike
-- 👀 I’m interested in learning new web development technologies and writing helpful materials to help fellow developers become better at what they do.
-- 🌱 I’m currently learning javascript and React
-- 💞️ I’m looking to collaborate on technical writing projects and frontend web development gigs.
+- I’m interested in web development and technical writing.
+- 🌱 I’m currently learning javascript.
+- I’m looking to collaborate on technical writing projects and open source web development.
 - 📫 you can reach me by email driplordy696@gmail.com
 
 <!---
